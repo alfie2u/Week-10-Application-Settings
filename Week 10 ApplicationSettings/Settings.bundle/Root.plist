@@ -47,12 +47,14 @@
 			<string>Green</string>
 			<key>Values</key>
 			<array>
+				<string>Teal</string>
 				<string>Red</string>
 				<string>Green</string>
 				<string>Blue</string>
 			</array>
 			<key>Titles</key>
 			<array>
+				<string>Teal color</string>
 				<string>Red Color</string>
 				<string>Green Color</string>
 				<string>Blue Color</string>

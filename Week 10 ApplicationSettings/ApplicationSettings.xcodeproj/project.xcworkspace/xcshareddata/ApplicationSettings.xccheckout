@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C3F8BE6C-1DE2-4433-A840-5E235FD2DEC4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ApplicationSettings</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4FEF9880-6CF6-4CF2-95A1-977B9C35BACB</key>
+		<string>https://github.com/alfie2u/Week-10-Application-Settings.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Week 10 ApplicationSettings/ApplicationSettings.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4FEF9880-6CF6-4CF2-95A1-977B9C35BACB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alfie2u/Week-10-Application-Settings.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4FEF9880-6CF6-4CF2-95A1-977B9C35BACB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4FEF9880-6CF6-4CF2-95A1-977B9C35BACB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Week-10-Application-Settings</string>
+		</dict>
+	</array>
+</dict>
+</plist>
